@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rk5080/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rk5080/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/rk5080/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/rk5080/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
