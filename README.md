@@ -73,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rk5080/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/rk5080/LEETCODE/tree/master/2509-minimize-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/rk5080/LEETCODE/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
