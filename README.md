@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rk5080/LEETCODE/tree/master/0283-move-zeroes) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rk5080/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/rk5080/LEETCODE/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
