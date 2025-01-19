@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rk5080/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rk5080/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/rk5080/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/rk5080/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rk5080/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rk5080/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 ## Greedy
 |  |
@@ -84,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
