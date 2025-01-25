@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rk5080/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rk5080/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/rk5080/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rk5080/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/rk5080/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rk5080/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rk5080/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/rk5080/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rk5080/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rk5080/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rk5080/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
