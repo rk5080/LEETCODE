@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rk5080/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rk5080/LEETCODE/tree/master/0283-move-zeroes) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rk5080/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
@@ -123,4 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rk5080/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
