@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/rk5080/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rk5080/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/rk5080/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rk5080/LEETCODE/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rk5080/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
