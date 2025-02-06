@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1364-tuple-with-same-product](https://github.com/rk5080/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rk5080/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rk5080/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/rk5080/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rk5080/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/rk5080/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rk5080/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
