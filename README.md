@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/rk5080/LEETCODE/tree/master/1364-tuple-with-same-product) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rk5080/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rk5080/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rk5080/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/rk5080/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rk5080/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,9 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rk5080/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rk5080/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
