@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rk5080/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rk5080/LEETCODE/tree/master/0189-rotate-array) |
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/rk5080/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rk5080/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rk5080/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rk5080/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0876-hand-of-straights](https://github.com/rk5080/LEETCODE/tree/master/0876-hand-of-straights) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Topological Sort
 |  |
 | ------- |
