@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/rk5080/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rk5080/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/rk5080/LEETCODE/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
