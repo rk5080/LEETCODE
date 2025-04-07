@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rk5080/LEETCODE/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/rk5080/LEETCODE/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rk5080/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rk5080/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/rk5080/LEETCODE/tree/master/2509-minimize-xor) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/rk5080/LEETCODE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rk5080/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
