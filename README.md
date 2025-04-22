@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rk5080/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rk5080/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rk5080/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rk5080/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rk5080/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rk5080/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rk5080/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rk5080/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rk5080/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rk5080/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/rk5080/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
 |  |
 | ------- |
