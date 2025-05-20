@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rk5080/LEETCODE/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0721-accounts-merge](https://github.com/rk5080/LEETCODE/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/rk5080/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/rk5080/LEETCODE/tree/master/0952-word-subsets) |
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rk5080/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rk5080/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/rk5080/LEETCODE/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/rk5080/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rk5080/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/rk5080/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rk5080/LEETCODE/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/rk5080/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rk5080/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rk5080/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rk5080/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rk5080/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rk5080/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/rk5080/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/rk5080/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rk5080/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rk5080/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -282,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/rk5080/LEETCODE/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rk5080/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rk5080/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/rk5080/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
