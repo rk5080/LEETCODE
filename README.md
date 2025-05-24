@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rk5080/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rk5080/LEETCODE/tree/master/0189-rotate-array) |
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
+| [2050-count-good-numbers](https://github.com/rk5080/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rk5080/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rk5080/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/rk5080/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
