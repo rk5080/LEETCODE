@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rk5080/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/rk5080/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rk5080/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rk5080/LEETCODE/tree/master/0189-rotate-array) |
 | [0968-beautiful-array](https://github.com/rk5080/LEETCODE/tree/master/0968-beautiful-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rk5080/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rk5080/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rk5080/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rk5080/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rk5080/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rk5080/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
